@@ -2,7 +2,7 @@
 
 [Bootstrap](http://getbootstrap.com) v3.2.0.
 
-It works for the latest Meteor new [packaging system](http://docs.meteor.com/#usingpackages) introduced at 0.9.
+It works for the latest Meteor [packaging system](http://docs.meteor.com/#usingpackages) introduced at 0.9.
 
 ## Installation
 
