@@ -1,3 +1,7 @@
+# Deprecation notice
+
+Since there are plenty of well maintained meteor packages which can do the same or even better, I suggest meteor developers to use https://atmospherejs.com/mizzao/bootstrap-3 instead.
+
 # Bootstrap 3 for Meteor
 
 [Bootstrap](http://getbootstrap.com) v3.2.0.
